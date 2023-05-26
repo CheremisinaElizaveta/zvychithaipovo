@@ -1,0 +1,165 @@
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\bin\Debug\net6.0-windows\AudioPlayer.exe
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\bin\Debug\net6.0-windows\AudioPlayer.deps.json
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\bin\Debug\net6.0-windows\AudioPlayer.runtimeconfig.json
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\bin\Debug\net6.0-windows\AudioPlayer.dll
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\bin\Debug\net6.0-windows\AudioPlayer.pdb
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\bin\Debug\net6.0-windows\FontAwesome.WPF.dll
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\bin\Debug\net6.0-windows\NAudio.dll
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\Resources\Styles.baml
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\View\AddSongWindow.g.cs
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\View\CustomSlider.g.cs
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer_MarkupCompile.cache
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer_MarkupCompile.lref
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\View\AddSongWindow.baml
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\View\CustomSlider.baml
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.g.resources
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.AssemblyInfo.cs
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.csproj.CopyComplete
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.dll
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\refint\AudioPlayer.dll
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.pdb
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.genruntimeconfig.cache
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\ref\AudioPlayer.dll
+C:\Users\nikol\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\App.baml
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\bin\Debug\net6.0-windows\AudioPlayer.exe
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\bin\Debug\net6.0-windows\AudioPlayer.deps.json
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\bin\Debug\net6.0-windows\AudioPlayer.runtimeconfig.json
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\bin\Debug\net6.0-windows\AudioPlayer.dll
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\bin\Debug\net6.0-windows\AudioPlayer.pdb
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\bin\Debug\net6.0-windows\FontAwesome.WPF.dll
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\bin\Debug\net6.0-windows\NAudio.dll
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.csproj.AssemblyReference.cache
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\Resources\Styles.baml
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\View\AddSongWindow.g.cs
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\View\CustomSlider.g.cs
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer_MarkupCompile.cache
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer_MarkupCompile.lref
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\App.baml
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\View\AddSongWindow.baml
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\View\CustomSlider.baml
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.g.resources
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.AssemblyInfoInputs.cache
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.AssemblyInfo.cs
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.csproj.CopyComplete
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.dll
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\refint\AudioPlayer.dll
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.pdb
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.genruntimeconfig.cache
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\ref\AudioPlayer.dll
+C:\Users\Lenovo PC\source\repos\AudioPlayer\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer_Content.g.cs
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\bin\Debug\net6.0-windows\AudioPlayer.exe
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\bin\Debug\net6.0-windows\AudioPlayer.deps.json
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\bin\Debug\net6.0-windows\AudioPlayer.runtimeconfig.json
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\bin\Debug\net6.0-windows\AudioPlayer.dll
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\bin\Debug\net6.0-windows\AudioPlayer.pdb
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\bin\Debug\net6.0-windows\FontAwesome.WPF.dll
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\bin\Debug\net6.0-windows\NAudio.dll
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.csproj.AssemblyReference.cache
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\obj\Debug\net6.0-windows\Resources\Styles.baml
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\obj\Debug\net6.0-windows\View\AddSongWindow.g.cs
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\obj\Debug\net6.0-windows\View\CustomSlider.g.cs
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer_MarkupCompile.cache
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer_MarkupCompile.lref
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\obj\Debug\net6.0-windows\App.baml
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\obj\Debug\net6.0-windows\View\AddSongWindow.baml
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\obj\Debug\net6.0-windows\View\CustomSlider.baml
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.g.resources
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.AssemblyInfoInputs.cache
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.AssemblyInfo.cs
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.csproj.CoreCompileInputs.cache
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.csproj.CopyComplete
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.dll
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\obj\Debug\net6.0-windows\refint\AudioPlayer.dll
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.pdb
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.genruntimeconfig.cache
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\obj\Debug\net6.0-windows\ref\AudioPlayer.dll
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\obj\Debug\net6.0-windows\View\AboutAuthorWindow.g.cs
+C:\Users\carat\Downloads\Новая папка (2)\AudioPlayer-master\AudioPlayer\obj\Debug\net6.0-windows\View\AboutAuthorWindow.baml
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\bin\Debug\net6.0-windows\AudioPlayer.exe
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\bin\Debug\net6.0-windows\AudioPlayer.deps.json
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\bin\Debug\net6.0-windows\AudioPlayer.runtimeconfig.json
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\bin\Debug\net6.0-windows\AudioPlayer.dll
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\bin\Debug\net6.0-windows\AudioPlayer.pdb
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\bin\Debug\net6.0-windows\FontAwesome.WPF.dll
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\bin\Debug\net6.0-windows\NAudio.dll
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\bin\Debug\net6.0-windows\NAudio.Asio.dll
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\bin\Debug\net6.0-windows\NAudio.Core.dll
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\bin\Debug\net6.0-windows\NAudio.Midi.dll
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.csproj.AssemblyReference.cache
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\obj\Debug\net6.0-windows\Resources\Styles.baml
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\obj\Debug\net6.0-windows\View\AboutAuthorWindow.g.cs
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\obj\Debug\net6.0-windows\View\AddSongWindow.g.cs
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\obj\Debug\net6.0-windows\View\CustomSlider.g.cs
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\obj\Debug\net6.0-windows\App.g.cs
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer_MarkupCompile.cache
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer_MarkupCompile.lref
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\obj\Debug\net6.0-windows\App.baml
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\obj\Debug\net6.0-windows\MainWindow.baml
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\obj\Debug\net6.0-windows\View\AboutAuthorWindow.baml
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\obj\Debug\net6.0-windows\View\AddSongWindow.baml
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\obj\Debug\net6.0-windows\View\CustomSlider.baml
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.g.resources
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.AssemblyInfoInputs.cache
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.AssemblyInfo.cs
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.csproj.CoreCompileInputs.cache
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.csproj.CopyComplete
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.dll
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\obj\Debug\net6.0-windows\refint\AudioPlayer.dll
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.pdb
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\obj\Debug\net6.0-windows\AudioPlayer.genruntimeconfig.cache
+D:\ПЛЕЕР НОВЫЙ\AudioPlayer\obj\Debug\net6.0-windows\ref\AudioPlayer.dll
